@@ -7,7 +7,7 @@ import fitz  # PyMuPDF for PDF
 from docx import Document  # For DOCX
 
 # Load Gemini API key from environment variable
-API_KEY = "AIzaSyCMVxPi9xf57GMdqkYeBYgwXcr-rg-jF8U"
+API_KEY = "Enter your API key "
 genai.configure(api_key=API_KEY)
 MODEL_NAME = "gemini-2.0-flash"
 
