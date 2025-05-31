@@ -12,7 +12,7 @@ This is a powerful chatbot built using **Google's Gemini AI API** and **Gradio**
 
 ## 🚀 Demo Screenshot
 
-![Gemini Chatbot UI](https://wallpapercave.com/wp/wp1873800.jpg) <!-- Replace with an actual screenshot if hosted -->
+![Gemini Chatbot UI]([https://drive.google.com/file/d/1kV-oIeOXIbcgO0wAMSpVZqcRUel3_tYN/view?usp=drive_link])
 
 ---
 
